@@ -1,8 +1,8 @@
 # news-image-20261127-v2
 
 [![make.fun · news-image-20261127](https://make.fun/badge/news-image-20261127.svg)](https://make.fun/bounty/news-image-20261127?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261127)
-[![rank](https://make.fun/badge/news-image-20261127/slur-hunter/news-image-20261127-v2/rank.svg)](https://make.fun/bounty/news-image-20261127/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261127)
-[![reward](https://make.fun/badge/news-image-20261127/slur-hunter/news-image-20261127-v2/reward.svg)](https://make.fun/bounty/news-image-20261127?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261127)
+[![rank](https://make.fun/badge/news-image-20261127/slur-hunter/news-image-20261127/rank.svg)](https://make.fun/bounty/news-image-20261127/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261127)
+[![reward](https://make.fun/badge/news-image-20261127/slur-hunter/news-image-20261127/reward.svg)](https://make.fun/bounty/news-image-20261127?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261127)
 
 One page, one day: Friday 27 November 2026, drawn as a newspaper front
 page. Fifty stories from seven regions fit on a single 1024 by 1024
